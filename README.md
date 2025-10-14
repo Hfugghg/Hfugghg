@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hfugghg&label=%E4%B8%BB%E9%A1%B5%E6%B5%8F%E8%A7%88%E9%87%8F&style=flat-square&color=blue" alt="访客计数"/>
+  <img src="https://moe-counter.glitch.me/get/@Hfugghg" alt="moe-counter" />
   <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td valign="top">
       <a href="https://github.com/anuraghazra/github-readme-stats">
