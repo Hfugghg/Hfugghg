@@ -2,9 +2,15 @@
 
 欢迎来到我的个人主页。
 
-![Hfugghg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hfugghg&show_icons=true&theme=tokyonight&rank_icon=percentile&show=reviews,prs_merged)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Hfugghg&locale=zh_Hans&background=12182A&hide_border=true&border_radius=10&stroke=30364F&ring=00BFFF&fire=00FF7F&currStreakNum=00FF7F&currStreakLabel=8892B0&sideNums=E6F1FF&sideLabels=8892B0&dates=8892B0)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Hfugghg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Hfugghg&show_icons=true&theme=tokyonight&rank_icon=percentile&show=reviews,prs_merged&locale=cn" />
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Hfugghg&locale=zh_Hans&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
