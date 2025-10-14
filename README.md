@@ -28,7 +28,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Hfugghg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hfugghg&theme=tokyonight&locale=cn&layout=compact" />
+        <img alt="Hfugghg's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hfugghg&theme=tokyonight&locale=cn&langs_count=16&hide_border=true&card_width=495" />
       </a>
     </td>
   </tr>
@@ -51,4 +51,4 @@
 - 🌱 我目前正在学习...
 - 💬 欢迎问我关于...
 
-###
+### 💰 支持我的工作
