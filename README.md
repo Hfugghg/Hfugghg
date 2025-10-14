@@ -35,7 +35,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hfugghg&theme=tokyonight&lang=cn&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hfugghg&theme=tokyonight&lang=cn&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
@@ -51,4 +51,4 @@
 - 🌱 我目前正在学习...
 - 💬 欢迎问我关于...
 
-### 💰 支持我的工作
+###
