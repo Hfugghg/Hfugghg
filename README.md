@@ -3,6 +3,8 @@
 欢迎来到我的个人主页。
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hfugghg&style=flat-square&color=blue" alt="访客计数"/>
+  <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -33,7 +35,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hfugghg&theme=tokyonight&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hfugghg&theme=tokyonight&lang=cn&column=3&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
