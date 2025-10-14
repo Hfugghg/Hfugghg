@@ -1,14 +1,11 @@
 <p align="center">
-  <a href="#zh-cn"><strong>中文</strong></a> • <a href="#en"><strong>English</strong></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&width=435&lines=Hi%2C+I'm+Hfugghg!;Welcome+to+my+profile.&center=true" alt="Typing SVG" />
 </p>
 
----
+<details open>
+<summary><strong>🇨🇳 中文版 (点击展开/折叠)</strong></summary>
 
-<div id="zh-cn">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&width=435&lines=你好%EF%BC%8C%E6%88%91%E6%98%AF+Hfugghg!;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%E3%80%82&center=true" alt="Typing SVG" />
-</p>
+<br>
 
 <p align="center">
   <img src="https://count.getloli.com/@Hfugghg?name=Hfugghg&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Miku Counter" />
@@ -61,16 +58,12 @@
 
 ### 💰 支持我的工作
 
-</div>
+</details>
 
----
+<details>
+<summary><strong>🇬🇧 English Version (Click to Expand/Collapse)</strong></summary>
+
 <br>
-
-<div id="en">
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3399FF&width=435&lines=Hi%2C+I'm+Hfugghg!;Welcome+to+my+profile.&center=true" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://count.getloli.com/@Hfugghg?name=Hfugghg&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Miku Counter" />
@@ -123,4 +116,4 @@
 
 ### 💰 Support My Work
 
-</div>
+</details>
