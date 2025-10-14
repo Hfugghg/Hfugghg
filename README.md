@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Hfugghg?name=Hfugghg&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访客计数" />
+  <img src="https://count.getloli.com/@Hfugghg?name=Hfugghg&theme=miku&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Miku Counter" />
   <br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
