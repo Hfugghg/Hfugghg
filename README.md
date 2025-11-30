@@ -49,15 +49,6 @@
   </a>
 </p>
 
----
-
-### 🙋‍♂️ 关于我
-- 💡 我对...感兴趣
-- 🌱 我目前正在学习...
-- 💬 欢迎问我关于...
-
-### 💰 支持我的工作
-
 </details>
 
 <hr>
@@ -112,14 +103,3 @@
     <img alt="Hfugghg's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hfugghg&theme=tokyonight" />
   </a>
 </p>
-
----
-
-### 🙋‍♂️ About Me
-- 💡 I'm interested in...
-- 🌱 I’m currently learning...
-- 💬 Ask me about...
-
-### 💰 Support My Work
-
-</details>
